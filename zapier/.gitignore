@@ -1,0 +1,11 @@
+# Zapier specific
+.zapierapprc
+build/
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
